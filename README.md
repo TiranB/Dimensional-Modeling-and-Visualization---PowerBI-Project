@@ -4,7 +4,7 @@ This project demonstrates the transformation of raw, flat **sales and budget dat
 
 ---
 
-## 🧠 Data Model Overview
+##  Data Model Overview
 
 ### 🔸 Fact Tables
 
